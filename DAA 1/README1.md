@@ -1,7 +1,0 @@
-# Overall Summary
-
-Sorting algorithms are fundamental techniques used to arrange data in a specific order, usually ascending or descending. Different sorting algorithms follow different approaches to organize data, each with its own advantages and limitations. Bubble Sort, Selection Sort, and Insertion Sort are simple comparison-based algorithms suitable for learning and handling small datasets. In contrast, Merge Sort and Quick Sort use the Divide-and-Conquer technique, providing significantly better performance for large datasets. The choice of a sorting algorithm depends on factors such as dataset size, memory availability, stability requirements, and execution speed.
-
-# Overall Conclusion
-
-Each sorting algorithm has unique characteristics and is suitable for different scenarios. Bubble Sort and Selection Sort are simple but inefficient for large datasets due to their O(n²) time complexity. Insertion Sort performs well on small or nearly sorted data and is often more practical than other basic sorting methods. Merge Sort offers reliable O(n log n) performance and stability, making it ideal for large datasets, although it requires additional memory. Quick Sort is widely preferred in practice because of its excellent average-case performance and efficient memory usage. Overall, for large-scale applications, Merge Sort and Quick Sort are generally the best choices, while the simpler algorithms remain valuable for educational purposes and small datasets.
